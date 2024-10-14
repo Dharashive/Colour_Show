@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Colour Show</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="submit">Submit</string>
+</resources>
